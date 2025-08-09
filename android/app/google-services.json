@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77911563755",
+    "project_id": "chat-near-e9ab2",
+    "storage_bucket": "chat-near-e9ab2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77911563755:android:ac9e682d8092adf12acdae",
+        "android_client_info": {
+          "package_name": "com.softchat.chatnear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77911563755-4sveilc6jt72bvnd3tlnevcba1r1s1qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMVmvrAQtvShIUF3PC6v7XQL5Hg_T8Lgw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77911563755-4sveilc6jt72bvnd3tlnevcba1r1s1qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
